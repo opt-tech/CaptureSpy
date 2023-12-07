@@ -1,0 +1,129 @@
+2023-12-07(Thu) 10:00:48 debug coonect error : SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+array (
+  0 => 
+  array (
+    'file' => '/var/www/inc/cls_conn.php',
+    'line' => 95,
+    'function' => 'Log',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  1 => 
+  array (
+    'file' => '/var/www/inc/cls_conn.php',
+    'line' => 279,
+    'function' => 'Connect',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  2 => 
+  array (
+    'file' => '/var/www/inc/cls_conn.php',
+    'line' => 109,
+    'function' => 'reConnect',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  3 => 
+  array (
+    'file' => '/var/www/inc/cls_dao.php',
+    'line' => 38,
+    'function' => 'Query',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  4 => 
+  array (
+    'file' => '/var/www/html/index.php',
+    'line' => 25,
+    'function' => 'dlookup',
+    'class' => 'Dao',
+    'type' => '::',
+  ),
+)
+2023-12-07(Thu) 10:00:48 debug coonect error : SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+array (
+  0 => 
+  array (
+    'file' => '/var/www/inc/cls_conn.php',
+    'line' => 95,
+    'function' => 'Log',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  1 => 
+  array (
+    'file' => '/var/www/inc/cls_conn.php',
+    'line' => 279,
+    'function' => 'Connect',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  2 => 
+  array (
+    'file' => '/var/www/inc/cls_conn.php',
+    'line' => 109,
+    'function' => 'reConnect',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  3 => 
+  array (
+    'file' => '/var/www/inc/cls_urls.php',
+    'line' => 32,
+    'function' => 'Query',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  4 => 
+  array (
+    'file' => '/var/www/html/index.php',
+    'line' => 27,
+    'function' => 'setPulldownList',
+    'class' => 'Urls',
+    'type' => '->',
+  ),
+)
+2023-12-07(Thu) 10:00:48 debug coonect error : SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known
+array (
+  0 => 
+  array (
+    'file' => '/var/www/inc/cls_conn.php',
+    'line' => 95,
+    'function' => 'Log',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  1 => 
+  array (
+    'file' => '/var/www/inc/cls_conn.php',
+    'line' => 279,
+    'function' => 'Connect',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  2 => 
+  array (
+    'file' => '/var/www/inc/cls_conn.php',
+    'line' => 109,
+    'function' => 'reConnect',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  3 => 
+  array (
+    'file' => '/var/www/inc/cls_dao.php',
+    'line' => 100,
+    'function' => 'Query',
+    'class' => 'CONN',
+    'type' => '->',
+  ),
+  4 => 
+  array (
+    'file' => '/var/www/html/index.php',
+    'line' => 35,
+    'function' => 'getRows',
+    'class' => 'Dao',
+    'type' => '::',
+  ),
+)
